@@ -1,3 +1,1 @@
-# sh00t
-
-read me
+# For SICP exercises.
